@@ -40,7 +40,6 @@ class BubbleChart extends Component {
 	}
 
 	render() {
-		const { formatted_data } = this.props;
 		
 		return(
 			<div>
