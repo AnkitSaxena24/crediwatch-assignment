@@ -1,5 +1,5 @@
 
-# Crediwatch Assignment
+# Small React Assignment
 
 This repository contains the completed assignment. The assignment is done using the React cli - create-react-app
 
