@@ -1,7 +1,7 @@
 
 # Small React Assignment
 
-This repository contains the completed assignment. The assignment is done using the React cli - create-react-app
+This repository contains a small react assignment. The assignment is done using the React cli - create-react-app
 
 Steps to reproduce project:
   - npm install: It will install all the node modules, which are required to run the project
